@@ -1,5 +1,5 @@
 <img src="./Assets/centipede.jpg" width="100%" />
 
-### Meoowwwwww 🐈‍⬛
+### Hi there :3
 
-<p>I'm Oliver but you can call me ols or cubo</p>
+<p><b>software engineer @ NBS by day </b></p>
