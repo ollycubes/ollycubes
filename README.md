@@ -1,5 +1,5 @@
-<img src="./Assets/centipede.jpg" width="100%" />
+![banner](./assets/banner.jpg)
 
 ### Hi there :3
 
-<p><b>software engineer @ NBS by day </b></p>
+<p><b>Software engineer @ NBS (nationwide building society) by day </b></p>
