@@ -1,4 +1,4 @@
-<img src="./Assets/centipede.jpg.png" width="100%" />
+<img src="./Assets/centipede.jpg" width="100%" />
 
 ### Meoowwwwww 🐈‍⬛
 
